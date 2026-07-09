@@ -1,0 +1,28 @@
+{
+  "pet": {
+    "name": "Buddy",
+    "type": "dog",
+    "hp": 80,
+    "xp": 20,
+    "level": 1,
+    "mood": "HAPPY",
+    "daysTogther": 0,
+    "feedCount": 0,
+    "playCount": 0,
+    "scanCount": 2,
+    "createdAt": "2026-07-07T11:31:04.547Z",
+    "lastActive": "2026-07-07T11:32:54.134Z"
+  },
+  "git": {
+    "commitsByDay": {},
+    "streak": 0,
+    "totalCommits": 0,
+    "lastCommit": null,
+    "health": 80
+  },
+  "focus": {
+    "totalSessions": 0,
+    "totalMinutes": 0
+  },
+  "achievements": []
+}
